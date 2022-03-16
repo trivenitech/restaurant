@@ -1,0 +1,8 @@
+*{
+background-image:url("food.jpg");
+background-size:cover;
+background-attachment:fixed;
+}
+.home{
+font-size:30px;
+}
